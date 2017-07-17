@@ -41,6 +41,9 @@ It comes pre-configured with the following bundles:
 
   * [**MonologBundle**][11] - Adds support for Monolog, a logging library
 
+  * [**AsseticBundle**][12] - Adds support for Assetic, an asset processing
+    library
+
   * **WebProfilerBundle** (in dev/test env) - Adds profiling functionality and
     the web debug toolbar
 
@@ -50,20 +53,17 @@ It comes pre-configured with the following bundles:
   * [**SensioGeneratorBundle**][13] (in dev/test env) - Adds code generation
     capabilities
 
-  * **DebugBundle** (in dev/test env) - Adds Debug and VarDumper component
-    integration
-
 All libraries and bundles included in the Symfony Standard Edition are
 released under the MIT or BSD license.
 
 Enjoy!
 
-[1]:  https://symfony.com/doc/2.8/setup.html
+[1]:  https://symfony.com/doc/2.3/book/installation.html
 [6]:  https://symfony.com/doc/current/bundles/SensioFrameworkExtraBundle/index.html
-[7]:  https://symfony.com/doc/2.8/doctrine.html
-[8]:  https://symfony.com/doc/2.8/templating.html
-[9]:  https://symfony.com/doc/2.8/security.html
-[10]: https://symfony.com/doc/2.8/email.html
-[11]: https://symfony.com/doc/2.8/logging.html
-[12]: https://symfony.com/doc/2.8/assetic/asset_management.html
+[7]:  https://symfony.com/doc/2.3/book/doctrine.html
+[8]:  https://symfony.com/doc/2.3/book/templating.html
+[9]:  https://symfony.com/doc/2.3/book/security.html
+[10]: https://symfony.com/doc/2.3/cookbook/email.html
+[11]: https://symfony.com/doc/2.3/cookbook/logging/monolog.html
+[12]: https://symfony.com/doc/2.3/cookbook/assetic/asset_management.html
 [13]: https://symfony.com/doc/current/bundles/SensioGeneratorBundle/index.html
